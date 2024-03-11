@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="tmux-switch.kts" type="KotlinStandaloneScriptRunConfigurationType" nameIsGenerated="true">
+    <module name="idea" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <shortenClasspath name="NONE" />
+    <option name="filePath" value="$PROJECT_DIR$/src/tmux-switch.kts" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
